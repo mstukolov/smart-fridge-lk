@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+.leaflet-container {
+  height: 800px;
+  width: 800px;
+  margin: 0 auto;
+}
+.coca-div-icon {
+  background: url('images/CocaCola2L.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 40px;
+  height: 40px;
+}
+.sprite-div-icon {
+  background: url('images/sprite033.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 90px;
+  height: 90px;
+}
+.ninja-div-icon {
+  background: url('images/0_6e8d0_470ed802_XXXL.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 90px;
+  height: 90px;
+}
